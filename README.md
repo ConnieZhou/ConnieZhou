@@ -1,4 +1,4 @@
-# Personal-Profile
+# ConnieZhou
 Get to know me
 
 # Brief Description
